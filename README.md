@@ -1,4 +1,4 @@
-![logo](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
+![logo]([https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg](https://drive.google.com/file/d/1YwEW9Fqog5fb0IN4d2dRQ5BsKqTfndOu/view?usp=sharing))
 <h1 align="center">Hi 👋, I'm Tanmay Kadam</h1>
 <h3 align="center">A BTech Computer Engineering student at VIT Pune</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
