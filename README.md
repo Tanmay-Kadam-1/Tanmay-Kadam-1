@@ -6,11 +6,15 @@
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </div>
 
+</br>
+
 <p align="left">
   <a href="https://github.com/tanmay-kadam-1" target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=tanmay-kadam-1&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-kadam-1" style="margin-top: 5px; padding: 10px; border: 1px solid #0e75b6; border-radius: 5px;"/>
   </a>
 </p>
+
+</br>
 
 
 - 🔭 I’m currently working on **Metaverse**
